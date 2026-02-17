@@ -74,10 +74,5 @@ O sistema possui dois tipos de usuários:
 - ☁️ Deploy em ambiente online
 - 🎨 Melhorias visuais e UX
 
----
-
-## ▶️ Como Executar o Projeto
-
-### 1️⃣ Clone o repositório
 
 
